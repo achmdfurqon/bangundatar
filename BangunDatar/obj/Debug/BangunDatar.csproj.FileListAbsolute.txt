@@ -1,0 +1,7 @@
+D:\.NET Projects\BangunDatar\BangunDatar\bin\Debug\BangunDatar.exe.config
+D:\.NET Projects\BangunDatar\BangunDatar\bin\Debug\BangunDatar.exe
+D:\.NET Projects\BangunDatar\BangunDatar\bin\Debug\BangunDatar.pdb
+D:\.NET Projects\BangunDatar\BangunDatar\obj\Debug\BangunDatar.csproj.CoreCompileInputs.cache
+D:\.NET Projects\BangunDatar\BangunDatar\obj\Debug\BangunDatar.exe
+D:\.NET Projects\BangunDatar\BangunDatar\obj\Debug\BangunDatar.pdb
+D:\.NET Projects\BangunDatar\BangunDatar\obj\Debug\BangunDatar.csprojAssemblyReference.cache
